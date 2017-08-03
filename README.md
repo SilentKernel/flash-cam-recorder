@@ -1,5 +1,5 @@
 # flash-cam-recorder
-## Becase flash player is dead
+## Because flash player is dead
 
 This simple projet is an old project. i used it to record webcam of user, (WebRTC api was not implemented in Safari / IE and MS Edge).
 
